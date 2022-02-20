@@ -1,5 +1,6 @@
 ![GDevelop logo](https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20banner.png "GDevelop logo")
 **THIS REPO IS UNDER CONSTRUCTION! IT DOES NOT HAVE GDEVELOP BINARIES FOR RASPBERRY PI!** <br>
+**If you are contributing to to GDevelop, do NOT open a pull request or clone this repository! Use 4ian/GDevelop instead.** <br>
 GDevelop is a full-featured, no-code, open-source game development software. You can build games for mobile, desktop and the web. GDevelop is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system.
 
 ![The GDevelop editor when editing a game level](https://raw.githubusercontent.com/4ian/GDevelop/master/newIDE/GDevelop%20screenshot.png "The GDevelop editor when editing a game level")
